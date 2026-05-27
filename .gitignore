@@ -1,0 +1,4 @@
+node_modules
+dist
+.vscode
+.DS_Storegit rm -r --cached node_modules
