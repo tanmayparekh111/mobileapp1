@@ -5,6 +5,6 @@ export default defineConfig({
 
 plugins:[react()],
 
-base:"/mobileapp/"
+base:"/mobileapp1/"
 
 })
